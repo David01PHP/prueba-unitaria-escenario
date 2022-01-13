@@ -1,2 +1,2 @@
-# prueba-unitaria-escenario
+# pruebas-unitarias-escenario
 proyecto en angular
